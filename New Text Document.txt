@@ -1,0 +1,5 @@
+cd C:\Users\HP\Downloads\python file
+
+conda activate tf
+
+python HCR.py
